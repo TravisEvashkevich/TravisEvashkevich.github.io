@@ -520,6 +520,7 @@ a.hoverline:hover {
 
 .card-action a.btn-floating {
   margin-bottom: 0;
+  position: relative;
 }
 
 #contact a:not(.btn-floating) {
