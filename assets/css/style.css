@@ -689,6 +689,7 @@ small {
     display: block;
     text-align: center;
     margin: 0 auto;
+    position: relative;
   }
   #intro.section {
     background-position-x: 30%;
