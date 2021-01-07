@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #5c816d repeat;
   position: relative;
 }
 
@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  /* background-color: rgba(0, 0, 0, 0.4); */
   height: 100%;
   left: 0;
   position: absolute;
@@ -516,7 +516,7 @@ a.hoverline:hover {
 }
 
 .card.medium .card-image {
-  height: 240px;
+  height: 75%;
 }
 
 .card-action a.btn-floating {
@@ -567,6 +567,14 @@ small {
 /* .teal {
   background-color: #00695c !important;
 } */
+
+.blueish-text {
+  color: #6b6b6b !important;
+}
+
+.blueish {
+  background-color: #24305e;
+}
 
 @media (min-width: 1200px) {
   #experience .container {
