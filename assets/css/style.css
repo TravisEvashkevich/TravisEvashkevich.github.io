@@ -517,10 +517,17 @@ a.hoverline:hover {
 
 .card.medium .card-image {
   height: 75%;
+  width:
 }
 
 .card-action a.btn-floating {
   margin-bottom: 0;
+  position: relative;
+}
+
+.card .card-action {
+  /* Border looks weird so we disable it. */
+  border: none;
   position: relative;
 }
 
